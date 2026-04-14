@@ -250,7 +250,7 @@ User studies for accessibility evaluation
 
 ## 👨‍💻 Author
 
-Narasimha S 
+Narasimha S       
 Engineering Major Project  
 Eye Gesture and Voice Controlled Rover
 
